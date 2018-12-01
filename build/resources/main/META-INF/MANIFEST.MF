@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Version: 1.0
+Implementation-Title: Rollingstone Ecommerce Application
+Implementation-Vendor-Id: com.rollingstone
+Build-Jdk: 1.8.0
+Implementation-Vendor: Pivotal Software, Inc.
