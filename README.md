@@ -1,4 +1,6 @@
-##1. How to run
+###1. This reposiitory shows how to customize the Spring Boot Regular banner. Plus, this also shows how to implement an ApplicationReady Event that SpringBoot sends when the application is ready. 
+
+##2. How to run
 
 	###1. java -jar  target\rollingstone-ecommerce-spring-boot-custom-banner-0.0.1-SNAPSHOT.jar
 	
